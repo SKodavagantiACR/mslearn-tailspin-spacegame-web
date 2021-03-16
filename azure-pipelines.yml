@@ -24,7 +24,7 @@ resources :
 
     type : github
 
-    endpoint : MyProject
+    endpoint : skodavaganti
 
     name : skodavaganti/mslearn-tailspin-spacegame-web
 
